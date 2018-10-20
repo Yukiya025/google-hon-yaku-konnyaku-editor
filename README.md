@@ -21,7 +21,10 @@
 ![transicon](https://github.com/Yukiya025/google-hon-yaku-konnyaku-editor/blob/master/images/transmark.png?raw=true)
 
 - 翻訳結果が出てくる。
+
 ![rujaresult](https://github.com/Yukiya025/google-hon-yaku-konnyaku-editor/blob/master/images/trans_result.png?raw=true)
 
 ちなみに翻訳サンプルで使ったのは [Максим Горький <<ДВАДЦАТЬ ШЕСТЬ И ОДНА>>
 ](https://ilibrary.ru/text/494/p.1/index.html) です。
+
+GrA yukiya
