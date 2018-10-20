@@ -7,7 +7,6 @@
 # 使い方
 - ロシア語から日本語に翻訳したいとき
 このまま使う。(一応下の画像のように`ru`と`ja`が組み合わされていることを確認する)
-
 ![ruja確認](https://github.com/Yukiya025/google-hon-yaku-konnyaku-editor/blob/master/images/ruja.png?raw=true) 
 - 日本語からロシア語にしたいとき
 `ru`と`ja`を逆にする。
@@ -20,7 +19,7 @@
 ![pasteRu](https://github.com/Yukiya025/google-hon-yaku-konnyaku-editor/blob/master/images/copypaste.png?raw=true)
 - 翻訳したい範囲をダブルクリック&ドラッグで選択。Google翻訳マークがでてきたらそれをクリック。
 ![transicon](https://github.com/Yukiya025/google-hon-yaku-konnyaku-editor/blob/master/images/transmark.png?raw=true)
-)
+
 - 翻訳結果が出てくる。
 ![rujaresult](https://github.com/Yukiya025/google-hon-yaku-konnyaku-editor/blob/master/images/trans_result.png?raw=true)
 
